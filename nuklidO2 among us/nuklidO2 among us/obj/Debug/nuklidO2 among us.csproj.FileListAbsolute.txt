@@ -1,0 +1,11 @@
+C:\Users\Robin\source\repos\nuklidO2 among us\nuklidO2 among us\bin\Debug\nuklidO2 among us.exe.config
+C:\Users\Robin\source\repos\nuklidO2 among us\nuklidO2 among us\bin\Debug\nuklidO2 among us.exe
+C:\Users\Robin\source\repos\nuklidO2 among us\nuklidO2 among us\bin\Debug\nuklidO2 among us.pdb
+C:\Users\Robin\source\repos\nuklidO2 among us\nuklidO2 among us\obj\Debug\nuklidO2 among us.csproj.AssemblyReference.cache
+C:\Users\Robin\source\repos\nuklidO2 among us\nuklidO2 among us\obj\Debug\nuklidO2 among us.csproj.SuggestedBindingRedirects.cache
+C:\Users\Robin\source\repos\nuklidO2 among us\nuklidO2 among us\obj\Debug\nuklidO2_among_us.Form1.resources
+C:\Users\Robin\source\repos\nuklidO2 among us\nuklidO2 among us\obj\Debug\nuklidO2_among_us.Properties.Resources.resources
+C:\Users\Robin\source\repos\nuklidO2 among us\nuklidO2 among us\obj\Debug\nuklidO2 among us.csproj.GenerateResource.cache
+C:\Users\Robin\source\repos\nuklidO2 among us\nuklidO2 among us\obj\Debug\nuklidO2 among us.csproj.CoreCompileInputs.cache
+C:\Users\Robin\source\repos\nuklidO2 among us\nuklidO2 among us\obj\Debug\nuklidO2 among us.exe
+C:\Users\Robin\source\repos\nuklidO2 among us\nuklidO2 among us\obj\Debug\nuklidO2 among us.pdb
